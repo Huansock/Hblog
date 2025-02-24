@@ -1,8 +1,10 @@
-{% extends "base.html" %}
+{% extends 'base.html' %}
 
 {% block content %}
-<h1 class="title">
-  This is my blog made with Zola.
-</h1>
-<p><a href="{{ get_url(path='@/blog/_index.md') }}">Posts</a>.</p>
-{% endblock content %}
+  <h1 class="title">This is my blog made with Zola.</h1>
+  <p>$$ \frac 1 {\sigma \sqrt 2 \pi} e^{-\frac 1 2 (\frac {x - \mu} {\sigma})^2} $$</p>
+  <p>
+    <a href="{{ get_url(path='@/blog/_index.md') }}">Posts</a>.
+    <a href="{{ get_url(path='@/blog/_index.ko.md') }}">한국어 글</a>.
+  </p>
+{% endblock %}

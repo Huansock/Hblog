@@ -5,5 +5,4 @@ date = 2019-11-27
 
 This is my first blog post.
 $a = b$
-
-{base_url}/{code}/
+안녕

@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://huansock.github.io/"
+base_url = "https://huansock.github.io" 
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -14,3 +14,12 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+
+[languages.ko]
+generate_feeds = true 
+
+[languages.ko.translations]
+summary = "띠따뿌 블로그"
+
+[translations]
+summary = "Hblog"
