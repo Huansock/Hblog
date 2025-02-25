@@ -1,8 +1,6 @@
 +++
-title = "My first post"
-date = 2019-11-27
+title = "첫 블로그 글"
+date = 2025-02-25
 +++
 
-This is my first blog post.
-$a = b$
-안녕
+이제 드디어 내 블로그 글을 내 맘대로 쓸 수 있다. 좋았어!

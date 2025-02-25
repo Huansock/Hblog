@@ -1,9 +1,6 @@
 +++
 title = "My first post"
-date = 2019-11-27
+date = 2025-02-25
 +++
 
-This is my first blog post.
-$a = b$
-
-{base_url}/{code}/
+from now on, I can write blog posts! nice.
