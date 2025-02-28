@@ -1,0 +1,39 @@
+// 변수 선언: 모바일 기준 화면 너비
+$mobile-breakpoint: 600px;
+
+// 기본 스타일 (데스크탑 기준)
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  
+  // 모바일 환경 (화면 너비가 $mobile-breakpoint 이하인 경우)
+  @media (max-width: $mobile-breakpoint) {
+    padding: 10px;
+  }
+}
+
+.title {
+  font-size: 2rem;
+  text-align: center;
+
+  // 모바일 환경에서 글자 크기 조정
+  @media (max-width: $mobile-breakpoint) {
+    font-size: 1.5rem;
+  }
+}
+
+p {
+  line-height: 1.6;
+  
+  // 모바일에서는 줄 간격을 약간 늘림
+  @media (max-width: $mobile-breakpoint) {
+    line-height: 1.8;
+  }
+}

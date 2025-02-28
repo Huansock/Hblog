@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://huansock.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://huansock.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://huansock.github.io/blog/first/</loc>
+        <lastmod>2025-02-25</lastmod>
+    </url>
+    <url>
+        <loc>https://huansock.github.io/blog/prallel-lines/</loc>
+        <lastmod>2025-02-28</lastmod>
+    </url>
+    <url>
+        <loc>https://huansock.github.io/blog/wibke/</loc>
+        <lastmod>2022-06-01</lastmod>
+    </url>
+    <url>
+        <loc>https://huansock.github.io/ko/</loc>
+    </url>
+    <url>
+        <loc>https://huansock.github.io/ko/blog/</loc>
+    </url>
+    <url>
+        <loc>https://huansock.github.io/ko/blog/first/</loc>
+        <lastmod>2025-02-25</lastmod>
+    </url>
+</urlset>
